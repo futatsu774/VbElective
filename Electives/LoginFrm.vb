@@ -15,7 +15,7 @@
 
 
         ElseIf user = "cashier1" And pass = "cashier1" Then
-            Dim act2 As New act1
+            Dim act2 As New act2
             MessageBox.Show("Welcome Cashier Point of Sale Page!!!")
             act2.Show()
             Me.Hide()

@@ -12,7 +12,7 @@
     End Sub
 
     Private Sub activity2_Click(sender As Object, e As EventArgs) Handles activity2.Click
-        Dim act2 As New act3
+        Dim act2 As New act2
         act2.MdiParent = Me
         act2.Show()
 
